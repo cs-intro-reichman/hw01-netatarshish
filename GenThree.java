@@ -10,7 +10,7 @@ public class GenThree {
 		int i = 0;
 		while (i < 3)	{
 			int num = (int)(Math.random()*maximum);
-			if(num >= minimum&&num<maximum){ //checks if the current number genarated is the minimal one
+			if(num >= minimum&&num<maximum){
 				System.out.println(num);
 				if(i == 0){
 					minimumGenerated = num;

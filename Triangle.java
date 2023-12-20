@@ -12,6 +12,6 @@ public class Triangle {
 		if(a + b < c || a + c < b || b + c < a){
 			isTriangle = false;
 		}
-		System.out.println( a + " , " + b + " , " + c + " : " + isTriangle);	
+		System.out.println( a + ", " + b + ", " + c + ": " + isTriangle);	
 	}
 }
