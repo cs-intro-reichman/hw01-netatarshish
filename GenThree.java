@@ -20,6 +20,6 @@ public class GenThree {
 				}
 				i=i+1;
 	}}
-	System.out.println("the minimal generated number was "+minimumGenerated);	
+	System.out.println("The minimal generated number was "+minimumGenerated);	
 	}
 }
